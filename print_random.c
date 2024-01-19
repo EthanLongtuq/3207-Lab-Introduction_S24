@@ -7,11 +7,9 @@
 
 int main()
 {
-	//int a;
+	int a;
 
-	printf("%c" , randchar());
-
-	/* seed the randomizer 
+	// seed the randomizer 
 	srand( (unsigned)time(NULL) );
 
 	printf("Today's random word: ");
@@ -20,6 +18,6 @@ int main()
 	putchar('\n');
 
 	return(0);
-	*/
+	
 }
 
